@@ -1,0 +1,8 @@
+OpenGL initialized
+Renderer: GeForce GTX 1060 6GB/PCIe/SSE2
+Version 4.5.0 NVIDIA 378.49GLSL 4.50 NVIDIA
+
+Cubes initialized!
+Program (tree) initialized!
+6  trees loaded!
+Loading terrain...
